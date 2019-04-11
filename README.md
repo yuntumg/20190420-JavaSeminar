@@ -5,8 +5,8 @@
 # 各ファイルの説明
 
 <pre>
-XXXXXXX.pdf
-　　
+JavaSeminar1.pdf
+　　本セミナーで使う予定のスライド。
 </pre>
 
 <pre>
@@ -16,7 +16,7 @@ src/data.csv
 
 <pre>
 src/test
-　　クイズ１〜３のオリジナルファイル
+　　クイズ１〜３のオリジナルファイル。
 </pre>
 
 <pre>
