@@ -5,7 +5,7 @@
 # 各ファイルの説明
 
 <pre>
-JavaSeminar1.pdf
+JavaSeminar.pdf
 　　本セミナーで使う予定のスライド。
 </pre>
 
